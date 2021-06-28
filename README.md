@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bagosep
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on Remote Web Developer
 - 📫 How to reach me linkedIn Bagosep
 
