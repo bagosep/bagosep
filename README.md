@@ -6,7 +6,7 @@
 ### <div align="center">I'm Bagus Eko Prasetyo, a Programmer and Freelance Programmer focusing on Web Developer. Live in Surabaya, East Java, Indonesia🚀</div>  
   
 
-- 🔭 I’m currently working on [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id) as a Programmer  
+- 🔭 I’m currently working on [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id) as a Programmer and Freelance
   
 
 - 🌱 I’m currently learning Nextjs and React Native  
@@ -16,12 +16,14 @@
   
 
 - ⚡ Fun fact: Besides coding, I also like vacations  
+
+- 🚀 [Bagosep.space](https://bagosep.space)
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skills and Tools set 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
