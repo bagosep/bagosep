@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Bagus Eko Prasetyo, a Programmer and Freelance Programmer focusing on Web Developer. Live in Surabaya, East Java, Indonesia🚀</div>  
   
 
@@ -53,7 +48,6 @@
 </div>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
