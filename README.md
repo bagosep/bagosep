@@ -1,10 +1,10 @@
 ### <div align="center">I'm Bagus Eko Prasetyo, a Programmer and Freelance Programmer focusing on Web Developer. Live in Surabaya, East Java, Indonesia🚀</div>  
   
 
-- 🔭 I’m currently working on [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id) as a Programmer and Freelance
+- 🔭 I’m currently working on [ORBIZ - PT. BORWITA INDAH](https://orbiz.id/) as a Web Developer
   
 
-- 🌱 I’m currently learning Nextjs and React Native  
+- 🌱 I’m currently learning Modern Javascript  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
